@@ -7,17 +7,17 @@ Software requirements:
 
 Linux operating system.
 # COMMAND 1: ls - List Files and Directories
-
- ```Syntax: 
+```
+ Syntax: 
 	ls [options] [directory]
  Code: 
 	ls -l /home/user
  Output: 
 	List of files and directories in /home/user with details.
 ```
-# COMMAND 2: cd - Change Directory
-
-``` Syntax: 
+# COMMAND 2: cd - Change Directory 
+```
+Syntax: 
 	cd [directory]
 Code: 
 	cd /var/www
@@ -34,7 +34,7 @@ Code:
 	/home/user (prints the current working directory).
 ```
 # COMMAND 4: mkdir - Create Directory
-
+```
 Syntax: 
 	mkdir [directory]
 Code: 
@@ -197,7 +197,7 @@ Output:
 	Lists running processes with details.
 ```
 # COMMAND 22: kill - Terminate Processes
-
+```
 Syntax: 
 	kill [signal] [PID]
 Code: 
@@ -224,8 +224,8 @@ Output:
 	Copies file.txt to a remote server over SSH.
 ```
 # COMMAND 25: wget - Download Files from the Internet
-
-```Syntax: 
+```
+Syntax: 
 	wget [options] [URL]
 Code: 
 	wget https://example.com/file.zip
