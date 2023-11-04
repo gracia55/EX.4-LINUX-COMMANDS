@@ -2,7 +2,7 @@
 
 # AIM:
 
-To study and execute basic UNIX commands.
+``To study and execute basic UNIX commands.
 Software requirements:
 
 Linux operating system.
@@ -233,3 +233,4 @@ Code:
 
 # RESULT:
 Thus basic UNIX commands are studied and executed.
+``
