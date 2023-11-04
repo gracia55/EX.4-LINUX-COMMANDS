@@ -12,7 +12,7 @@ Linux operating system.
 	ls [options] [directory]
  Code: 
 	ls -l /home/user
-# Output: 
+ Output: 
 	List of files and directories in /home/user with details.
 
 # COMMAND 2: cd - Change Directory
